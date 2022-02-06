@@ -1,0 +1,653 @@
+
+h1.centertxt {
+    text-align: center;
+    font-size: 34px;
+}
+
+.input-group {
+    width: 44rem !important;
+}
+
+.social-card-header{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 96px;
+}
+
+.review {
+    text-align:center;
+}
+
+.btnsearch {
+    margin-left:-7rem;
+    z-index:3;
+}
+
+.input-group.barsearch{
+    width: 35rem;
+    margin-left: 3rem;
+    margin-top: 2px;
+}
+
+.login {
+    margin-top:-5rem;
+}
+
+.areatxt {
+    width: 30rem;
+    height: 17rem;
+}
+
+.ratestar {
+    margin-top: -25px;
+    margin-left: -4px;
+}
+
+.ratestatus {
+    margin-top: -2rem;
+    margin-left: 2rem;
+}
+
+.btnsearch {
+    margin-left: -8rem;
+    z-index:1;
+}
+
+.textbg {
+    background-color: #d3d3d3;
+}
+
+.reviewtour{
+    margin-left: 8rem;
+    margin-top: -18px;
+}
+
+.tourtxt{
+    width:35rem;
+    height:10rem;
+}
+
+.placetxt {
+    font-size: 28px;
+    margin-top: 2rem;
+}
+
+.reviewbtn {
+    margin-left: 18rem;
+    margin-top: -35px;
+}
+
+.seemore {
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    margin-top: 2rem;
+}
+
+.spotpage {
+    margin-left: 22px;
+}
+
+.singlespot {
+    width: 100%;
+    height: 6rem;
+}
+
+.userreview {
+    border: 1px solid #000000;
+    padding: 2rem;
+}
+
+.placename {
+    text-align: center;
+}
+
+.ownreview {
+    width: 100%;
+    height: 12rem;
+    margin-top: 1rem;
+}
+
+.reviewsubmit {
+    float: right;
+}
+
+
+
+/* media queries */
+
+@media only screen and (min-width: 360px) {
+    
+/*.navbar {*/
+/*    overflow: hidden;*/
+/*}*/
+
+.centertxt {
+    text-align: center;
+    font-size: 14px;
+}
+
+.input-group {
+    width: 19rem;
+    margin-top: -58px;
+}
+
+.btnsearch {
+    margin-left: -6rem;
+}
+
+.areatxt {
+    width: 20rem;
+    height: 14rem;
+    margin: 5px;
+}
+
+.divitxt {
+    margin-top: 2rem;
+}
+
+.tourtxt {
+    width: 20rem;
+    height: 8rem;
+    margin: 4px;
+}
+
+.placetxt {
+    font-size: 18px;
+    margin-top: 1rem;
+}
+
+.ownreview {
+    width: 100%;
+    height: 9rem;
+    margin-top: 1rem;
+}
+
+.reviewbtn {
+    margin-left: 10rem;
+    margin-top: -35px;
+}
+
+.singlespot {
+    width: 110%;
+    height: 8rem;
+    margin-left: -20px !important;
+}
+
+.userreview {
+    border: none;
+}
+
+.placespot {
+    font-size: 26px;
+}
+
+.rateplace {
+    text-align: center;
+    margin-top: -2rem;
+}
+
+.ratestar {
+    margin-top: -4px;
+    margin-left: 4rem;
+}
+
+.ratestatus {
+    margin-top: 1rem;
+    margin-left: 6rem;
+}
+
+.amenti {
+    margin-top: 1rem;
+}
+
+}
+
+@media only screen and (min-width: 375px) {
+    
+/*.navbar {*/
+/*    overflow: hidden;*/
+/*}*/
+
+.centertxt {
+    text-align: center;
+    font-size: 14px;
+}
+
+.input-group {
+    width: 20rem;
+    margin-top: -58px;
+}
+
+.btnsearch {
+    margin-left: -6rem;
+}
+
+.areatxt {
+    width: 21rem !important;
+    height: 12rem !important;
+    margin: 5px;
+}
+
+.divitxt {
+    margin-top: 2rem;
+}
+
+.tourtxt {
+    width: 21rem;
+    height: 8rem;
+    margin: 6px;
+}
+
+.singlespot {
+    width: 110%;
+    height: 8rem;
+    margin-left: -4px;
+}
+
+.placetxt {
+    font-size: 18px;
+    margin-top: 1rem;
+}
+
+.ownreview {
+    width: 100%;
+    height: 9rem;
+    margin-top: 1rem;
+}
+
+.reviewbtn {
+    margin-left: 10rem !important;
+    margin-top: -35px;
+}
+
+.singlespot {
+    width: 104%;
+    height: 7rem;
+    margin-left: 1px;
+    margin-top: 5px;
+}
+
+.userreview {
+    border: none;
+}
+
+.placespot {
+    font-size: 26px;
+}
+
+.rateplace {
+    text-align: center;
+    margin-top: -2rem;
+}
+
+.ratestar {
+    margin-top: -4px;
+    margin-left: 4rem;
+}
+
+.ratestatus {
+    margin-top: 1rem;
+    margin-left: 6rem;
+}
+
+.amenti {
+    margin-top: 1rem;
+}
+
+}
+
+
+@media only screen and (min-width: 411px) {
+    
+/*.navbar {*/
+/*    overflow: hidden;*/
+/*}*/
+
+.centertxt {
+    text-align: center;
+    font-size: 15px;
+}
+
+.input-group {
+    width: 22rem;
+    margin-top: -58px;
+}
+
+.btnsearch {
+    margin-left: -6rem;
+}
+
+.areatxt {
+    width: 24rem !important;
+    height: 14rem;
+    margin-top: 3px !important;
+    margin: 0;
+}
+
+.divitxt {
+    margin-top: 2rem;
+}
+
+.tourtxt {
+    width: 23rem;
+    height: 11rem;
+    margin-top: 5px;
+    margin-left: 1px;
+}
+
+.placetxt {
+    font-size: 18px;
+    margin-top: 1rem;
+}
+
+.reviewbtn {
+    margin-left: 12rem !important;
+    margin-top: -35px;
+}
+
+.singlespot {
+    width: 105%;
+    height: 8rem;
+    margin-top: 2px;
+    margin-left: -8px !important;
+}
+
+.ownreview {
+    width: 100%;
+    height: 9rem;
+    margin-top: 14px;
+}
+
+.userreview {
+    border: none;
+}
+
+.placespot {
+    font-size: 26px;
+}
+
+.rateplace {
+    text-align: center;
+    margin-top: -2rem;
+}
+
+.ratestar {
+    margin-top: -4px;
+    margin-left: 4rem;
+}
+
+.ratestatus {
+    margin-top: 1rem;
+    margin-left: 6rem;
+}
+
+.amenti {
+    margin-top: 1rem;
+}
+
+}
+
+
+@media only screen and (min-width: 414px) {
+    
+/*.navbar {*/
+/*    overflow: hidden;*/
+/*}*/
+
+.centertxt {
+    text-align: center;
+    font-size: 15px;
+}
+
+.input-group {
+    width: 22rem;
+    margin-top: -58px;
+}
+
+.btnsearch {
+    margin-left: -6rem;
+}
+
+.areatxt {
+    width: 24rem;
+    height: 14rem;
+    margin-top: 2px;
+    margin-left: 1px;
+}
+
+.divitxt {
+    margin-top: 2rem;
+}
+
+.tourtxt {
+    width: 23rem;
+    height: 8rem;
+    margin-top: 4px;
+    margin-left: 1px;
+}
+
+.placetxt {
+    font-size: 18px;
+    margin-top: 1rem;
+}
+
+.singlespot {
+    width: 100%;
+    height: 8rem;
+    margin-left: 1px;
+    margin-top: 2px;
+}
+
+.ownreview {
+    width: 100%;
+    height: 9rem;
+    margin-top: 14px;
+    margin-left: 2px;
+}
+
+.reviewbtn {
+    margin-left: 12rem;
+    margin-top: -35px;
+}
+
+.userreview {
+    border: none;
+}
+
+.placespot {
+    font-size: 26px;
+}
+
+.rateplace {
+    text-align: center;
+    margin-top: -2rem;
+}
+
+.ratestar {
+    margin-top: -4px;
+    margin-left: 4rem;
+}
+
+.ratestatus {
+    margin-top: 1rem;
+    margin-left: 6rem;
+}
+
+.amenti {
+    margin-top: 1rem;
+}
+}          
+.file-upload {
+  background-color: #ffffff;
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.file-upload-btn {
+  width: 100%;
+  margin: 0;
+  color: #fff;
+  background: #1FB264;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  border-bottom: 4px solid #15824B;
+  transition: all .2s ease;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.file-upload-btn:hover {
+  background: #1AA059;
+  color: #ffffff;
+  transition: all .2s ease;
+  cursor: pointer;
+}
+
+.file-upload-btn:active {
+  border: 0;
+  transition: all .2s ease;
+}
+
+.file-upload-content {
+  display: none;
+  text-align: center;
+}
+
+.file-upload-input {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.image-upload-wrap {
+  margin-top: 20px;
+  border: 4px dashed #1FB264;
+  position: relative;
+}
+
+.image-dropping,
+.image-upload-wrap:hover {
+  background-color: #1FB264;
+  border: 4px dashed #ffffff;
+}
+
+.image-title-wrap {
+  padding: 0 15px 15px 15px;
+  color: #222;
+}
+
+.drag-text {
+  text-align: center;
+}
+
+.drag-text h3 {
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #15824B;
+  padding: 60px 0;
+}
+
+.file-upload-image {
+  max-height: 200px;
+  max-width: 200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.remove-image {
+  width: 200px;
+  margin: 0;
+  color: #fff;
+  background: #cd4535;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  border-bottom: 4px solid #b02818;
+  transition: all .2s ease;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.remove-image:hover {
+  background: #c13b2a;
+  color: #ffffff;
+  transition: all .2s ease;
+  cursor: pointer;
+}
+
+.remove-image:active {
+  border: 0;
+  transition: all .2s ease;
+}
+
+ul {
+    margin: 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+li.star {
+    list-style: none;
+    display: inline-block;
+    margin-right: 5px;
+    cursor: pointer;
+    color: #9E9E9E;
+}
+
+li.star.selected {
+    color: #ff6e00;
+}
+
+.row-title {
+    font-size: 20px;
+    color: #00BCD4;
+}
+
+.review-note {
+    font-size: 12px;
+    color: #999;
+    font-style: italic;
+}
+
+.row-item {
+    margin-bottom: 20px;
+    border-bottom: #F0F0F0 1px solid;
+}
+
+p.text-address {
+    font-size: 12px;
+}
+.wrapper {
+position: relative;
+overflow: hidden;
+}
+
+.wrapper:after {
+content: '';
+display: block;
+padding-top: 100%;
+}
+
+.wrapper img {
+width: auto;
+height: 100%;
+max-width: none;
+position: absolute;
+left: 50%;
+top: 0;
+transform: translateX(-50%);
+}
